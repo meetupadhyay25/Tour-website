@@ -1,0 +1,6 @@
+body {
+    background: url('https://mdbootstrap.com/img/Photos/Others/images/76.jpg') no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+    min-height: 500px;
+}
